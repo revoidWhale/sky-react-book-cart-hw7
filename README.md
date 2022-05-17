@@ -1,21 +1,7 @@
-# Getting Started with Create React App
+# Задание
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Провести рефакторинг кода используя возможности библиотеки PropTypes.
+- Задача на повтор метода массива `.map()`:
+ На следующем изображении четные числа выделены зеленым цветом, нечетные - желтым, а простые числа - красным. Создайте подобный отдельный компонент React. 
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-# Задание урок 5.7 React Router
-
-На основе текущей разработки с урока:
-
-- Разделить компонент BookCart на два, вынести в отдельный компонент "GeneralCart" с общей сумму и общее количество.
-- Вынести компонент "GeneralCart" как отдельную “страницу”.
-- Настроить навигацию между “страницами” с помощь роутинга React.
-- Добавить страницу Error404, которая будет открываться при переходе по неверному адресу.
+![Безымянный](https://user-images.githubusercontent.com/103576500/168839036-c1235917-3776-4f01-afcb-7258733585b9.jpg)
